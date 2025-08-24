@@ -1,6 +1,15 @@
 ---
 title: Template for Knowledge Base Docs Websites
 ---
+
+## Topic introduction 
+
+The topic chosen will be about choosing topics. For choosing a topic, one must consider the possibilities of what you can say, and what can be said about the topic. Understanding the different possibilities of what can happen in the choice you make can change the course of what may happen in the timeline of the topics future.
+
+
+---
+
+
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
