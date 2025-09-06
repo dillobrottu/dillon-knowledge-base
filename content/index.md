@@ -4,7 +4,7 @@ title: Template for Knowledge Base Docs Websites
 
 ## Topic introduction 
 
-The topic chosen will be about choosing topics. For choosing a topic, one must consider the possibilities of what you can say, and what can be said about the topic. Understanding the different possibilities of what can happen in the choice you make can change the course of what may happen in the timeline of the topics future.
+The topic chosen will be about understanding the difference between knowing and creating. Understanding the difference allows one to understand how someone can not know something and be able to do it, and how knowing something can allow you to further excel at your chosen task.
 
 ---
 
