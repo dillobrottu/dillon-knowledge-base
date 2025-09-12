@@ -4,7 +4,7 @@ title: Template for Knowledge Base Docs Websites
 
 ## Topic introduction 
 
-The topic chosen will be about understanding the difference between knowing and creating. Understanding the difference allows one to understand how someone can not know something and be able to do it, and how knowing something can allow you to further excel at your chosen task.
+The topic chosen will be about understanding the difference between listening and hearing. Many people think that listening and hearing are interchangeable, but there is a difference between the two. Hearing is taking in the sound and listening is understanding the sound. Knowing the difference between the two can allow a person to better understand the different types of sounds.
 
 ---
 
