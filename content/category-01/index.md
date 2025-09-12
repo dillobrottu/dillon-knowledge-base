@@ -1,9 +1,14 @@
 ---
 title: Category 01
 ---
+# Hearing
+
+
+
 ## Related Categories
 
-To some, creating may relate to [[category-02/index|knowing]] but this is not always the case.
+Hearing relates to [[content/category-02/index|listening]] but the difference is how you process the sounds you take in. Hearing is the passive intake of the sounds coming into your ears.
+
 
 
 
