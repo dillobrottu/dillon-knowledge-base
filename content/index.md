@@ -1,5 +1,5 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Dillon Knowledge Base
 ---
 
 ## Topic introduction 
@@ -10,11 +10,11 @@ The topic chosen will be about understanding the difference between listening an
 
 ## Main Categories
 
-- [[category-01/index|Category 01]]
-- [[category-02/index|Category 02]]
-- [[category-03/index|Category 03]]
-- [[category-04/index|Category 04]]
-- [[category-05/index|Category 05]]
+- [[content/Category 01 - Hearing/index|Category 01]]
+- [[content/Category 02 - Listening/index|Category 02]]
+- [[content/Category 03 - Comparison/index|Category 03]]
+- [[content/Category 04 - Analysis/index|Category 04]]
+- [[content/Category 05 Conclusion/index|Category 05]]
 
 ---
 
