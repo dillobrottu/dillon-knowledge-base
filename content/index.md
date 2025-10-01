@@ -13,4 +13,4 @@ Many people think that listening and hearing are interchangeable, but there is a
 - [[content/Category 02 - Listening/index|Listening]]
 - [[content/Category 03 - Comparison/index|Comparison]]
 - [[content/Category 04 - Analysis/index|Analysis]]
-- [[content/Category 05 Conclusion/index|Conclusion]]
+- [[content/Category 05 - Conclusion/index|Conclusion]]

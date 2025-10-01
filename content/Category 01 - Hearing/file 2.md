@@ -1,5 +1,5 @@
 ---
-title: Category 01b - Understanding
+title: Hearing 2 - Understanding
 ---
 # Understanding hearing
 

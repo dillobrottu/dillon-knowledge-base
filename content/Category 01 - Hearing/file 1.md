@@ -1,5 +1,5 @@
 ---
-title: Category 01a - Definition
+title: Hearing 1 - Definition
 ---
 # Definition of hearing
 

@@ -1,5 +1,5 @@
 ---
-title: Category 03a - Difference
+title: Comparison 1 - Difference
 ---
 # Difference
 

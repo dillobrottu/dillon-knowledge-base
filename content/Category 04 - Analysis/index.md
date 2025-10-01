@@ -1,5 +1,5 @@
 ---
-title: Category 04
+title: Analysis - Index
 ---
 # Analysis
 

@@ -1,5 +1,5 @@
 ---
-title: Category 03
+title: Comparison - Index
 ---
 # Comparison 
 
