@@ -3,7 +3,7 @@ title: Hearing 5 - Conclusion
 ---
 # Conclusion of hearing
 
-[[content/1 - Hearing/index|Hearing]] is the process of a person's ears taking in sound waves and processing the sounds they hear. Sounds are the air waves that are created in a wide variety of ways. 
+[[1 - Hearing/index|Hearing]] is the process of a person's ears taking in sound waves and processing the sounds they hear. Sounds are the air waves that are created in a wide variety of ways. 
 Hearing allows a person to react to sound and gather quick and simple information in a quick manner. 
 
 ### Hearing can be used in different ways
@@ -18,4 +18,4 @@ Hearing allows a person to react to sound and gather quick and simple informatio
 
 ![[hearing.jpg]]
 
-Hearing is only the automatic process of processing and taking in sound, to further know sound is to understand it, and to understand sound a person must [[content/2 - Listening/index|listen]].
+Hearing is only the automatic process of processing and taking in sound, to further know sound is to understand it, and to understand sound a person must [[2 - Listening/index|listen]].

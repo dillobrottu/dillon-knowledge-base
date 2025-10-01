@@ -3,4 +3,6 @@ title: 3 - Comparison
 ---
 # Comparison 
 
-placeholder
+[[Comparison 1|difference]]
+
+[[Comparison 2|placeholder]]

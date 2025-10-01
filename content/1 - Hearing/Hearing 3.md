@@ -3,7 +3,7 @@ title: Hearing 3 - Conversations
 ---
 # Hearing in conversations
 
-To have a conversation is to make sound and have a person [[content/1 - Hearing/index|hear]] in the sound that you make. Your voice creates waves in the air that enters into another person's ears for them to process. But to only hear what a person says can have a different outcome than to listen.
+To have a conversation is to make sound and have a person [[1 - Hearing/index|hear]] in the sound that you make. Your voice creates waves in the air that enters into another person's ears for them to process. But to only hear what a person says can have a different outcome than to listen.
 
 ## Only hearing
 

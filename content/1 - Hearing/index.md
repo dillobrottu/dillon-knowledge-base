@@ -13,14 +13,10 @@ Knowing how a person hears different types of [[Hearing 4|media]] can allow a pe
 
 [[Hearing 5|Hearing]] sounds is to simply process the noise around you, though simple, hearing has multiple layers to it.
 
-
-
-
-
-
+---
 ## Related Categories
 
-Hearing relates to [[content/2 - Listening/index|listening]] but the difference is how you process the sounds you take in. Hearing is the passive intake of the sounds coming into your ears.
+Hearing relates to [[2 - Listening/index|listening]] but the difference is how you process the sounds you take in. Hearing is the passive intake of the sounds coming into your ears.
 
 
 

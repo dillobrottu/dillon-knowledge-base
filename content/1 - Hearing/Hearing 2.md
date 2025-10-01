@@ -3,7 +3,7 @@ title: Hearing 2 - Understanding
 ---
 # Understanding hearing
 
-To know why a person decides to only [[content/1 - Hearing/index|hear]] is to know the context of the situation that takes place. 
+To know why a person decides to only [[1 - Hearing/index|hear]] is to know the context of the situation that takes place. 
 In some situations the sounds being made are not important to the person receiving the sounds. Some examples being background noise and sounds not meant for someone. 
 
 ## Cases of hearing
