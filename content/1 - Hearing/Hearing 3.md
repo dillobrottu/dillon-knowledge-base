@@ -3,7 +3,7 @@ title: Hearing 3 - Conversations
 ---
 # Hearing in conversations
 
-To have a conversation is to make sound and have a person [[content/Category 01 - Hearing/index|hear]] in the sound that you make. Your voice creates waves in the air that enters into another person's ears for them to process. But to only hear what a person says can have a different outcome than to listen.
+To have a conversation is to make sound and have a person [[content/1 - Hearing/index|hear]] in the sound that you make. Your voice creates waves in the air that enters into another person's ears for them to process. But to only hear what a person says can have a different outcome than to listen.
 
 ## Only hearing
 
@@ -16,4 +16,4 @@ Some examples of a person only hearing what is said can be seen in debates where
 
 In a simple conversation a person can move easier if a person hears the words another person says and quickly processes their words to move on from what they say. As said before, a person can refuse to understand what the other is saying as a move of dominance or uncaring notion. To not acknowledge the other person's words and to only talk can influence other people's opinion of you and to give your words a different feeling.
 
-In [[content/Category 01 - Hearing/file 4|other]] forms of hearing a person can decide to partake in, a person can decide the [[content/Category 01 - Hearing/file 5|reason]] for why they hear.
+In [[Hearing 4|other]] forms of hearing a person can decide to partake in, a person can decide the [[Hearing 5|reason]] for why they hear.

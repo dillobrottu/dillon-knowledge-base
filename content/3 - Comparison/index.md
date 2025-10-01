@@ -1,5 +1,5 @@
 ---
-title: Comparison - Index
+title: 3 - Comparison
 ---
 # Comparison 
 

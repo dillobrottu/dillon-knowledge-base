@@ -9,8 +9,8 @@ Many people think that listening and hearing are interchangeable, but there is a
 
 ## Main Categories
 
-- [[content/Category 01 - Hearing/index|Hearing]]
-- [[content/Category 02 - Listening/index|Listening]]
-- [[content/Category 03 - Comparison/index|Comparison]]
-- [[content/Category 04 - Analysis/index|Analysis]]
-- [[content/Category 05 - Conclusion/index|Conclusion]]
+- [[1 - Hearing/index|Hearing]]
+- [[2 - Listening/index|Listening]]
+- [[3 - Comparison/index|Comparison]]
+- [[4 - Analysis/index|Analysis]]
+- [[5 - Conclusion/index|Conclusion]]
