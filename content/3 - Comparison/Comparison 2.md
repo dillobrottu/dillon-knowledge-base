@@ -1,6 +1,7 @@
 ---
-title: Comparison 2 - ph
+title: Comparison 2 - Similarities
+date: 25/09/2025
 ---
-# placeholder title
+# Similarities
 
 placeholder text

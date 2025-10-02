@@ -1,5 +1,6 @@
 ---
 title: Hearing 1 - Definition
+date: 12/09/2025
 ---
 # Definition of hearing
 

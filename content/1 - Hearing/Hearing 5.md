@@ -1,5 +1,6 @@
 ---
 title: Hearing 5 - Conclusion
+date: 12/09/2025
 ---
 # Conclusion of hearing
 

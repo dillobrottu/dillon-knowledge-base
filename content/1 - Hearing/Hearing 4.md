@@ -1,5 +1,6 @@
 ---
 title: Hearing 4 - Media
+date: 12/09/2025
 ---
 # Hearing in media
 

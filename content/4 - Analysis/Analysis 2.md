@@ -1,4 +1,7 @@
 ---
-title: Analysis 2 - ph
+title: Analysis 2 - Study
+date: 25/09/2025
 ---
-# placeholder title
+# Document Study
+
+Based on the paper

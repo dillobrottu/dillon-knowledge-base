@@ -1,5 +1,6 @@
 ---
 title: 1 - Hearing
+date: 29/08/2025
 ---
 # Hearing
 

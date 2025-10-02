@@ -1,6 +1,7 @@
 ---
-title: Conclusion 1 - ph
+title: Conclusion 1 - Final
+date: 25/09/2025
 ---
-# placeholder title
+# Final thoughts
 
 placeholder text

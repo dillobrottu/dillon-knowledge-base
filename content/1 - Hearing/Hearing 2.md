@@ -1,5 +1,6 @@
 ---
 title: Hearing 2 - Understanding
+date: 12/09/2025
 ---
 # Understanding hearing
 
