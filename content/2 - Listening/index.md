@@ -4,15 +4,15 @@ date: 29/08/2025
 ---
 # Listening 
 
-[[Listening 1|definition]]
+The [[Listening 1|definition]] of listening is similar to hearing, as it requires the processing of sound. But it goes more in-depth than hearing, as it requires the person to understand what they hear.
 
-[[Listening 2|understanding]]
+To [[Listening 2|understand]] listening is to understand why a person decides to understand what they hear. To connect and learn from the sounds they process.
 
-[[Listening 3|conversation]]
+Understanding how listening is used in [[Listening 3|conversations]] can allow a person to better converse and understand others. 
 
-[[Listening 4|media]]
+Listening in [[Listening 4|media]] can be recognized in different forms. In a variety of different forms of media a person can listen to in different ways.
 
-[[Listening 5|listening]]
+[[Listening 5|Listening]] is understanding, and to listen is to hear, but to hear does not always mean to listen.
 
 ---
 
