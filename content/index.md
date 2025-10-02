@@ -4,7 +4,7 @@ date: 27/09/2025
 ---
 # Intro
 
-Many people think that listening and hearing are interchangeable, but there is a difference between the two. Hearing is taking in the sound and listening is understanding the sound. Knowing the difference between the two can allow a person to better understand the way we perceive sound.
+Hello, I'm [[About|Dillon Brown]] and many people think that listening and hearing are interchangeable, but there is a difference between the two. Hearing is taking in the sound and listening is understanding the sound. Knowing the difference between the two can allow a person to better understand the way we perceive sound.
 
 ---
 

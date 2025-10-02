@@ -18,6 +18,6 @@ In audio media such as music or audio presentations, sound is being presented to
 
 A reason for why a person would only decide to hear what is being said can be from a lack of care of what ever is being presented. Some people decide to have television on in the background while they focus on other activities. Other people like to have music in the background while they study.
 
-![[media.jpg]]
+![[hearing_media.jpg]]
 
 In [[Hearing 3|other]] forms of hearing a person can decide to partake in, a person can decide the [[Hearing 5|reason]] for why they hear.

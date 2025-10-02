@@ -6,6 +6,8 @@ date: 25/09/2025
 
 From this paper on the comparison between listening and hearing different types between the two and analyzing the differences can be made.
 
+[[Analysis 2|Studying]] this paper and analyzing it, a person can understand the difference between listening and hearing.
+
 ![[LvH.pdf]]
 
-[[Analysis 2|Studying]] this paper and analyzing it, a person can understand the difference between listening and hearing.
+![[References|Reference]]

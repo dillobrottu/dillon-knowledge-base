@@ -10,7 +10,7 @@ To have a conversation is to make sound and have a person [[1 - Hearing/index|he
 
 When a person hears what they say, they acknowledge their conversation between them, but only to acknowledge them. When a person decides to only hear what they say, some of the information can be lost to anyone participating in the conversation.
 
-![[conversation.jpg]]
+![[hearing_conversation.jpg]]
 
 Some examples of a person only hearing what is said can be seen in debates where a person does not care about what the other has to say and is only there to talk to the other person or an audience.
 ### Why a person only decides to hear

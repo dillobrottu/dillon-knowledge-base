@@ -12,7 +12,7 @@ date: 12/09/2025
 
 Sounds are specific vibrations of air waves that allows a person to interpret the vibrations and turn the sound into information for the brain to process. 
 
-![[sound.jpg]]
+![[hearing_sound.jpg]]
 
 A person's ears automatically take in these sound waves for their brain to process the sounds.
 ## Why does a person hear?

@@ -17,6 +17,7 @@ Hearing allows a person to react to sound and gather quick and simple informatio
 
  Hearing takes on many forms and allows a person to take in their environment, and react to stimuli, but hearing is only a simple reaction to the sounds a person can hear.
 
-![[hearing.jpg]]
+![[hearing_hearing.jpg]]
 
 Hearing is only the automatic process of processing and taking in sound, to further know sound is to understand it, and to understand sound a person must [[2 - Listening/index|listen]].
+
